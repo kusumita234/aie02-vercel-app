@@ -67,7 +67,7 @@ export function WishListGenerator() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-5xl md:text-6xl font-bold text-[#f4e4c1] mb-4 drop-shadow-lg font-serif">
-            🎄 Santa's Magical Wish List 🎄
+            🎄 Santa's Great Wish List 🎄
           </h1>
           <p className="text-[#e6d5b8] text-lg">
             Write your wishes and let Santa decide if you've been naughty or nice...
